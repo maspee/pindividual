@@ -1,0 +1,2 @@
+# pindividual
+Django proyecto Individual
